@@ -1,0 +1,15 @@
+package javaapplication3;
+
+public class JavaApplication3 {
+
+    public static void main(String[] args) {
+       Samolot a1 = new Samolot();
+       a1.setPredkosc(800);
+       a1.lec();
+       
+       Statek s1 = new Statek();
+       s1.setPredkosc(400);
+       s1.plyn();
+    }
+    
+}
