@@ -1,0 +1,6 @@
+package javaapplication3;
+
+public interface Lata {
+    
+    void lec();
+}
